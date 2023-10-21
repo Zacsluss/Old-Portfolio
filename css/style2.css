@@ -1,18 +1,14 @@
 body{
-	
-	font-family: 'Montserrat', sans-serif;
-	}
+    font-family: 'Montserrat', sans-serif;
+}
 .container{
-	max-width:1170px;
+    max-width:1170px;
 }
 /* menu css */
 .main-menu{
-	background:url(../images/header_body_img.jpg) no-repeat;
-	background-size:cover;
-	background-position:center;
-
-	
-	
+    background-image: none;
+    background-size: cover;
+    background-position: center;
 }
 .parallaxie_effects{
 	position:absolute;
